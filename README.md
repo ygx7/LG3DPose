@@ -2,8 +2,8 @@
 
 This work is based on the [MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer/tree/master) and [P-STMO](https://github.com/paTRICK-swk/P-STMO), and you can get more help there.
 
-<p align="center"> <img src="./figure/kunkun.gif" width="100%"> </p> 
-<p align="center"> <img src="./figure/skate.gif" width="100%"> </p> 
+<p align="center"> <img src="./figure/kunkun.gif" width="50%"> </p> 
+<p align="center"> <img src="./figure/skate.gif" width="50%"> </p> 
 
 ## Environment
 
